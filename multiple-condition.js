@@ -17,3 +17,6 @@ else {
 }
 
 if((isGraduated === true && salary > 50000) || cars >= 1 )
+{
+    console.log('biya confirm');
+}
